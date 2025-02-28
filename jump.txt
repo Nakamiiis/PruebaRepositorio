@@ -1,0 +1,3 @@
+Impulso
+Salto
+Caída
