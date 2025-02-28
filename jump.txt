@@ -1,3 +1,5 @@
+Agacharse
 Impulso
 Salto
 Caída
+Estampa contra el suelo
